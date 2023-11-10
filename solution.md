@@ -22,3 +22,11 @@
 ![Capture d'écran 2023-11-10 114018](https://github.com/Bouns77/gnu-linux/assets/144699498/6032571c-6d42-490f-a9e3-8ae07c551468)
 
 - Renseigner l'adresse ip de la machine (ipv4 et ipv6) et les gateway
+
+#### Test de ping
+
+![Capture d'écran 2023-11-10 122915](https://github.com/Bouns77/gnu-linux/assets/144699498/e4b08b0c-eda5-4ec6-b269-854ee270e386)
+
+
+
+![Capture d'écran 2023-11-10 123845](https://github.com/Bouns77/gnu-linux/assets/144699498/4ca75b80-f231-4bab-b55e-e932c5f65ee3)
